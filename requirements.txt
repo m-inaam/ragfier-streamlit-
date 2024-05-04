@@ -4,12 +4,11 @@ cmake
 arabic-reshaper
 Keras
 numpy
-opencv-python
+opencv-python-headless
 Pillow
 python-bidi
 scipy
 tensorflow
-flask
 llama-index 
 llama-index-vector-stores-mongodb
 llama-index-embeddings-openai
