@@ -1,5 +1,6 @@
 python-dotenv
 openai
+cmake
 arabic-reshaper
 Keras
 numpy
@@ -8,8 +9,9 @@ Pillow
 python-bidi
 scipy
 tensorflow
-streamlit
+flask
 llama-index 
 llama-index-vector-stores-mongodb
 llama-index-embeddings-openai
 pymongo
+streamlit
