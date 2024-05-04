@@ -1,0 +1,15 @@
+python-dotenv
+openai
+arabic-reshaper
+Keras
+numpy
+opencv-python
+Pillow
+python-bidi
+scipy
+tensorflow
+streamlit
+llama-index 
+llama-index-vector-stores-mongodb
+llama-index-embeddings-openai
+pymongo
